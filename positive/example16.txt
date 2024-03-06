@@ -1,1 +1,5 @@
-2 ^ 3
+var n = 0;
+for (var i = 1, 5) {
+    print(n);
+    n = n + 2;
+}

@@ -1,1 +1,3 @@
-32768
+var va = 3;
+var vb = 6;
+print(va ^ vb);

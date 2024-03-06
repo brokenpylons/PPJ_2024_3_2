@@ -20,7 +20,7 @@ do
     fi
 done
 
-for file in "$path"/negative/example{0..17}.txt
+for file in "$path"/negative/example{0..24}.txt
 do
     echo "$file"
     cat "$file"

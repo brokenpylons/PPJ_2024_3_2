@@ -1,1 +1,8 @@
-(2 + 2) / 2
+var grade1 = 6;
+var grade2 = 7;
+var grade3 = 8;
+var grade4 = 9;
+var grade5 = 10;
+var sum = grade1 + grade2 + grade3 + grade4 + grade5;
+var average = sum / 5;
+print(average);

@@ -1,1 +1,5 @@
-2 + 2 / 2
+var prod = 1;
+for (var i = 0, 5) {
+    print(prod);
+    prod = 2 * prod;
+}

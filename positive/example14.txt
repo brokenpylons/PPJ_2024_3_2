@@ -1,1 +1,7 @@
-8 // 2 // 2 // 2
+var n = 6;
+var digits = 3;
+for (var i = 1, digits) {
+    var digit = n - (n // 2) * 2;
+    print(digit);
+    n = n // 2;
+}

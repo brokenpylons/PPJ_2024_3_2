@@ -1,1 +1,10 @@
-x + y
+var result = 0;
+for (var i = 1, 5) {
+    result = result + i;
+}
+
+for (var i = 1, 3) {
+    result = result * i;
+}
+
+print(result);
