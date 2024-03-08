@@ -1,1 +1,1 @@
-# Končni avtomati 2.1
+# Razpoznavalnik 3.2
